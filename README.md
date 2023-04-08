@@ -1,3 +1,5 @@
+This is a website where mechanics can post their services and users can take reservations for their cars.
+
 ![Capture1](https://user-images.githubusercontent.com/113851733/230576161-f7f11546-e33c-46d9-b519-df1a3b7c857a.PNG)
 
 ![Capture2](https://user-images.githubusercontent.com/113851733/230576209-ed58e17e-4418-4903-8a43-b1661e79e7f2.PNG)
